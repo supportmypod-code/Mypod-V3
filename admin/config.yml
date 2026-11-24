@@ -1,0 +1,71 @@
+# MY POD hive · CMS settings (Sveltia CMS)
+# 1) Change the next "repo" line to YOUR GitHub username/repository, e.g.  sahabaz/mypodrange-website
+# 2) Upload this file to GitHub. Then open  https://your-site/admin/  and choose "Sign in with Token".
+backend:
+  name: github
+  repo: YOUR-GITHUB-USERNAME/mypodrange-website
+  branch: main
+
+# Photos you upload are saved full size (no compression) in this folder of the repository.
+media_folder: images/uploads
+public_folder: images/uploads
+
+collections:
+  - name: catalogue
+    label: Products
+    icon: inventory_2
+    files:
+      - name: products
+        label: Product catalogue
+        file: data/products.json
+        fields:
+          - label: Products (drag to change the order on the website)
+            name: products
+            widget: list
+            summary: "{{fields.name}} · {{fields.cat}}"
+            fields:
+              - { label: Product ID (used in the web address, lowercase-with-dashes), name: id, widget: string, pattern: ['^[a-z0-9-]+$', 'Use lowercase letters, numbers and dashes only'] }
+              - { label: Show on website, name: published, widget: boolean, default: true }
+              - { label: Product name, name: name, widget: string }
+              - { label: Category, name: cat, widget: string }
+              - { label: Headline line 1 (white), name: t1, widget: string }
+              - { label: Headline line 2 (yellow), name: t2, widget: string }
+              - { label: Subtitle, name: sub, widget: string, required: false }
+              - { label: Card line (short), name: short, widget: string }
+              - { label: Intro paragraph, name: lead, widget: text }
+              - { label: Overview, name: over, widget: text, required: false }
+              - { label: Starting price in ₹ (0 = "Price on request"), name: from, widget: number, value_type: int, default: 0, min: 0 }
+              - { label: Rate per m² in ₹ (for the quote estimate, 0 = none), name: rate, widget: number, value_type: int, default: 0, min: 0 }
+              - { label: Installation cost in ₹, name: inst, widget: number, value_type: int, default: 0, min: 0 }
+              - { label: Default length (m), name: L, widget: number, value_type: float, default: 6, min: 1 }
+              - { label: Default width (m), name: W, widget: number, value_type: float, default: 4, min: 1 }
+              - label: Icon
+                name: icon
+                widget: select
+                default: cube
+                options: [roof, fold, perg, pool, box, cube, pod, dome, home, bld, umb, leaf]
+              - label: Applications
+                name: apps
+                widget: select
+                multiple: true
+                required: false
+                options:
+                  - { label: Residential, value: res }
+                  - { label: Commercial, value: com }
+                  - { label: Hospitality, value: hosp }
+                  - { label: Leisure & pools, value: leis }
+                  - { label: Outdoor living, value: outdoor }
+                  - { label: Roof & terrace, value: roof }
+              - { label: Highlights (up to 3), name: tags, widget: list, max: 3, required: false, field: { label: Highlight, name: tag, widget: string } }
+              - { label: Features, name: feat, widget: list, required: false, field: { label: Feature, name: f, widget: string } }
+              - label: Specs
+                name: specs
+                widget: list
+                required: false
+                summary: "{{fields.k}}: {{fields.v}}"
+                fields:
+                  - { label: Label, name: k, widget: string }
+                  - { label: Value, name: v, widget: string }
+              - { label: Hero photo (big banner, 1920 px+ wide recommended), name: hero, widget: image }
+              - { label: Card photo, name: card, widget: image, required: false }
+              - { label: Gallery photos, name: gallery, widget: list, required: false, field: { label: Photo, name: photo, widget: image } }

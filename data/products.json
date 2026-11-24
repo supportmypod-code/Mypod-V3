@@ -1,0 +1,604 @@
+{
+  "products": [
+    {
+      "id": "glass-roof",
+      "published": true,
+      "name": "Retractable Glass Roof",
+      "cat": "Retractable & Glass Systems",
+      "t1": "Retractable",
+      "t2": "Glass Roof",
+      "sub": "Custom motorized glass roofing system",
+      "icon": "roof",
+      "short": "Open sky or full cover at the touch of a button.",
+      "lead": "Enjoy the perfect balance of open sky and covered comfort with our premium retractable glass roof system.",
+      "over": "A versatile and intelligent roofing solution, our retractable glass roof lets you control sunlight, ventilation and weather protection with ease. Perfect for homes, resorts and commercial spaces.",
+      "from": 499000,
+      "rate": 25833,
+      "inst": 17000,
+      "L": 6,
+      "W": 4,
+      "apps": [
+        "roof",
+        "outdoor",
+        "res",
+        "hosp",
+        "com"
+      ],
+      "tags": [
+        "Custom sizes",
+        "Motorized / manual",
+        "UV & weather protection"
+      ],
+      "feat": [
+        "Motorized or manual operation",
+        "UV & weather protection",
+        "Premium aluminium & glass",
+        "Custom sizes & finishes",
+        "Seamless integration"
+      ],
+      "specs": [
+        {
+          "k": "Max single span",
+          "v": "Up to 8 m (custom)"
+        },
+        {
+          "k": "Glazing",
+          "v": "Toughened / laminated / low-E"
+        },
+        {
+          "k": "Frame",
+          "v": "Powder-coated aluminium"
+        },
+        {
+          "k": "Drive",
+          "v": "Tubular motor, remote + app"
+        },
+        {
+          "k": "Sensors",
+          "v": "Rain & wind (optional)"
+        },
+        {
+          "k": "Lead time",
+          "v": "Approx. 3 weeks"
+        }
+      ],
+      "hero": "images/01_Retractable_Glass_Roof_Architectural_Hero.jpg",
+      "card": "images/01_Retractable_Glass_Roof_Architectural_Hero.jpg",
+      "gallery": [
+        "images/01_Retractable_Glass_Roof_Architectural_Hero.jpg",
+        "images/07_Retractable_Glass_Roof_Product_Detail.jpg",
+        "images/08_Glass_Roof_Gallery_Angle_01.jpg",
+        "images/09_Glass_Roof_Gallery_Angle_02.jpg",
+        "images/10_Glass_Roof_Gallery_Angle_03.jpg",
+        "images/11_Glass_Roof_Gallery_Angle_04.jpg",
+        "images/12_Glass_Roof_Gallery_Angle_05.jpg"
+      ]
+    },
+    {
+      "id": "foldable-home",
+      "published": true,
+      "name": "Foldable Home",
+      "cat": "Modular Space Solutions",
+      "t1": "A home that",
+      "t2": "unfolds in hours.",
+      "sub": "Expandable modular residential structure",
+      "icon": "fold",
+      "short": "A compact unit that expands into a bright, full-size living space.",
+      "lead": "Delivered as a compact, closed unit. Side panels open outward to extend the floor, then expand and lock into a finished living space.",
+      "over": "Transport folded, unfold the panels, expand and lock, then move in: a finished home with doors, windows and configurable interiors. Ideal for guest accommodation, holiday homes and farmhouses.",
+      "from": 0,
+      "rate": 0,
+      "inst": 0,
+      "L": 6,
+      "W": 6,
+      "apps": [
+        "res",
+        "hosp",
+        "com"
+      ],
+      "tags": [
+        "2–4 hrs setup",
+        "Expandable",
+        "Reusable"
+      ],
+      "feat": [
+        "Indicative setup in 2–4 hours",
+        "Compact to deployed",
+        "Configurable layout & fittings",
+        "Transport-aware, reusable format",
+        "Double-glazed doors"
+      ],
+      "specs": [
+        {
+          "k": "Setup time",
+          "v": "2–4 hrs (indicative)"
+        },
+        {
+          "k": "Format",
+          "v": "Compact to deployed"
+        },
+        {
+          "k": "Layout",
+          "v": "Configurable interiors"
+        },
+        {
+          "k": "Delivery",
+          "v": "Closed unit for transport"
+        }
+      ],
+      "hero": "images/foldable-home-hero.webp",
+      "card": "images/foldable-home-hero.webp",
+      "gallery": [
+        "images/foldable-home-hero.webp",
+        "images/foldable-home-front.jpg",
+        "images/foldable-home-lawn.webp",
+        "images/foldable-home-steps.webp",
+        "images/foldable-home-sheet.webp",
+        "images/interior-living.jpg",
+        "images/interior-bedroom.jpg",
+        "images/interior-kitchen.jpg",
+        "images/interior-bathroom.jpg"
+      ]
+    },
+    {
+      "id": "motorised-pergola",
+      "published": true,
+      "name": "Motorised Pergola",
+      "cat": "Pergola Collection",
+      "t1": "Control the feel",
+      "t2": "of the outdoors.",
+      "sub": "Automated louvred pergola",
+      "icon": "perg",
+      "short": "Adjustable louvres create shade, airflow and rain cover on demand.",
+      "lead": "Motorised louvres open, tilt or close to manage sunlight, airflow and rain protection across patios, terraces and hospitality spaces.",
+      "over": "0° open for maximum airflow, 45° tilt for adjustable shade, 90° closed for rain cover. Control options may include remote, mobile app and voice control, depending on the selected model and controller.",
+      "from": 149000,
+      "rate": 9500,
+      "inst": 12000,
+      "L": 5,
+      "W": 4,
+      "apps": [
+        "outdoor",
+        "res",
+        "roof",
+        "hosp",
+        "com"
+      ],
+      "tags": [
+        "0° · 45° · 90° louvres",
+        "Remote / app / voice",
+        "Integrated LED"
+      ],
+      "feat": [
+        "0° open: maximum airflow",
+        "45° tilt: adjustable shade",
+        "90° closed: rain cover",
+        "Remote, app & voice options",
+        "Integrated LED lighting"
+      ],
+      "specs": [
+        {
+          "k": "Louvre range",
+          "v": "0° open to 90° closed"
+        },
+        {
+          "k": "Control",
+          "v": "Remote, app, voice (model dependent)"
+        },
+        {
+          "k": "Mount",
+          "v": "Freestanding / wall-mounted"
+        },
+        {
+          "k": "Site check",
+          "v": "Wind rating, drainage, installation"
+        }
+      ],
+      "hero": "images/pergola-motorised-crop.webp",
+      "card": "images/pergola-motorised-crop.webp",
+      "gallery": [
+        "images/pergola-motorised-crop.webp",
+        "images/pergola-lounge-wide.jpg",
+        "images/pergola-louvre-angles.jpg",
+        "images/04_Architectural_Pergola.jpg"
+      ]
+    },
+    {
+      "id": "inflatable-pool",
+      "published": true,
+      "name": "Inflatable Pool",
+      "cat": "Concept & Lifestyle Products",
+      "t1": "Summer, without",
+      "t2": "permanent construction.",
+      "sub": "Portable drop-stitch pools",
+      "icon": "pool",
+      "short": "Portable drop-stitch pool formats for homes and hospitality.",
+      "lead": "A portable drop-stitch pool for gardens, terraces, farmhouses and resorts. No digging or concrete work: unpack, inflate and fill on a suitable prepared surface.",
+      "over": "1,000 litres of water weighs approximately one tonne. Have any terrace or balcony slab professionally checked before placing a pool above ground level. Adult supervision is essential.",
+      "from": 0,
+      "rate": 0,
+      "inst": 0,
+      "L": 4,
+      "W": 2,
+      "apps": [
+        "leis",
+        "outdoor",
+        "hosp",
+        "res"
+      ],
+      "tags": [
+        "2,400 – 10,800 L",
+        "5–10 min inflation",
+        "Packs away"
+      ],
+      "feat": [
+        "No digging or concrete",
+        "Inflates in 5–10 minutes",
+        "Deflates and packs away",
+        "Compact & family sizes"
+      ],
+      "specs": [
+        {
+          "k": "Compact capacity",
+          "v": "2,400 L"
+        },
+        {
+          "k": "Large family capacity",
+          "v": "10,800 L"
+        },
+        {
+          "k": "Inflation time",
+          "v": "5–10 min (indicative)"
+        },
+        {
+          "k": "Storage",
+          "v": "Deflates and packs away"
+        }
+      ],
+      "hero": "images/inflatable-pool.webp",
+      "card": "images/inflatable-pool.webp",
+      "gallery": [
+        "images/inflatable-pool.webp",
+        "images/inflatable-pool-wide.jpg"
+      ]
+    },
+    {
+      "id": "x-fold-unit",
+      "published": true,
+      "name": "X-Fold Unit",
+      "cat": "Modular Space Solutions",
+      "t1": "Folds flat.",
+      "t2": "Opens into space.",
+      "sub": "X-fold modular unit for project spaces",
+      "icon": "box",
+      "short": "An innovative X-fold modular unit for temporary and project spaces.",
+      "lead": "The X-Fold Unit travels in a compact transport form. On site it is lifted into position and opens through an X-shaped fold into an enclosed unit.",
+      "over": "It settles into an enclosed unit with a door, sliding windows, LED lighting and durable flooring. Built for site offices, project facilities and rapid deployment.",
+      "from": 0,
+      "rate": 0,
+      "inst": 0,
+      "L": 6,
+      "W": 3,
+      "apps": [
+        "com",
+        "res"
+      ],
+      "tags": [
+        "Rapid deployment",
+        "Insulated panels",
+        "LED lighting"
+      ],
+      "feat": [
+        "Reinforced corners",
+        "Strut-assisted hinge",
+        "Insulated wall panels",
+        "Durable flooring",
+        "Door, sliding windows & LED"
+      ],
+      "specs": [
+        {
+          "k": "Transport",
+          "v": "Compact folded form"
+        },
+        {
+          "k": "Opening",
+          "v": "X-shaped fold on site"
+        },
+        {
+          "k": "Walls",
+          "v": "Insulated panels"
+        },
+        {
+          "k": "Fit-out",
+          "v": "Door, windows, LED, flooring"
+        }
+      ],
+      "hero": "images/xfold-opening.webp",
+      "card": "images/xfold-opening.webp",
+      "gallery": [
+        "images/xfold-opening.webp",
+        "images/xfold-sheet.webp",
+        "images/step-arrives-compact.webp"
+      ]
+    },
+    {
+      "id": "flat-pack",
+      "published": true,
+      "name": "Flat Pack Building",
+      "cat": "Modular Space Solutions",
+      "t1": "A smarter way",
+      "t2": "to move a building.",
+      "sub": "Transport-friendly prefabricated system",
+      "icon": "cube",
+      "short": "Transport-friendly building components assembled at destination.",
+      "lead": "Prefabricated components are delivered in a compact, palletised package and assembled at the destination.",
+      "over": "Useful where access is limited or logistics need careful planning: compact kit delivery, a prepared base frame, frame and panels, then a finished space.",
+      "from": 0,
+      "rate": 0,
+      "inst": 0,
+      "L": 6,
+      "W": 3,
+      "apps": [
+        "com",
+        "res",
+        "hosp"
+      ],
+      "tags": [
+        "Palletised kit",
+        "Assembled on site",
+        "Limited-access sites"
+      ],
+      "feat": [
+        "Compact kit delivery",
+        "Prepared base frame",
+        "Frame and panels",
+        "Finished space"
+      ],
+      "specs": [
+        {
+          "k": "Delivery",
+          "v": "Compact palletised kit"
+        },
+        {
+          "k": "Assembly",
+          "v": "At destination"
+        },
+        {
+          "k": "Best for",
+          "v": "Limited site access"
+        }
+      ],
+      "hero": "images/flatpack-finished.webp",
+      "card": "images/flatpack-finished.webp",
+      "gallery": [
+        "images/flatpack-finished.webp",
+        "images/flatpack-sheet.webp",
+        "images/step-position-frame.webp"
+      ]
+    },
+    {
+      "id": "pool-enclosure",
+      "published": true,
+      "name": "Retractable Pool Enclosure",
+      "cat": "Retractable & Glass Systems",
+      "t1": "Swim in",
+      "t2": "every season.",
+      "sub": "Telescopic glass enclosure for pools",
+      "icon": "roof",
+      "short": "Telescopic bays slide open on sunny days and seal when weather turns.",
+      "lead": "Low-profile telescopic segments glide on tracks so the pool can be fully covered, half open or fully exposed.",
+      "over": "Keeps water warmer, cleaner and safer, with manual or motorised sliding and child-safe locking.",
+      "from": 499000,
+      "rate": 21000,
+      "inst": 25000,
+      "L": 10,
+      "W": 5,
+      "apps": [
+        "leis",
+        "res",
+        "hosp"
+      ],
+      "tags": [
+        "Telescopic bays",
+        "All-season use",
+        "Child-safe locking"
+      ],
+      "feat": [
+        "Manual or motorised sliding",
+        "Polycarbonate or glass panels",
+        "Keeps water warmer",
+        "Custom pool sizes"
+      ],
+      "specs": [
+        {
+          "k": "Coverage",
+          "v": "Pools up to 15 × 7 m"
+        },
+        {
+          "k": "Panels",
+          "v": "Polycarbonate / toughened glass"
+        },
+        {
+          "k": "Frame",
+          "v": "Anodised aluminium"
+        },
+        {
+          "k": "Lead time",
+          "v": "Approx. 4 weeks"
+        }
+      ],
+      "hero": "images/02_Retractable_Glass_Pool_Enclosure.jpg",
+      "card": "images/02_Retractable_Glass_Pool_Enclosure.jpg",
+      "gallery": [
+        "images/02_Retractable_Glass_Pool_Enclosure.jpg",
+        "images/10_Glass_Roof_Gallery_Angle_03.jpg"
+      ]
+    },
+    {
+      "id": "pod-hive",
+      "published": true,
+      "name": "MY POD HIVE",
+      "cat": "MY POD HIVE",
+      "t1": "MY POD",
+      "t2": "HIVE.",
+      "sub": "Premium modular pod collection",
+      "icon": "pod",
+      "short": "Signature capsule pods with panoramic glazing and hotel-grade interiors.",
+      "lead": "Our signature capsule pods: panoramic glazing, curved shell and hotel-grade interiors, ready for resorts, farm stays and backyards.",
+      "over": "A fully finished living pod with bed, bathroom, climate control and smart lighting. Craned into place and connected in a day.",
+      "from": 599000,
+      "rate": 32000,
+      "inst": 30000,
+      "L": 6,
+      "W": 3,
+      "apps": [
+        "hosp",
+        "res",
+        "outdoor"
+      ],
+      "tags": [
+        "Signature design",
+        "Hotel-grade interior",
+        "Plug & stay"
+      ],
+      "feat": [
+        "Fully finished capsule",
+        "Insulated curved shell",
+        "Panoramic glazing",
+        "Smart controls"
+      ],
+      "specs": [
+        {
+          "k": "Footprint",
+          "v": "Approx. 11–38 m²"
+        },
+        {
+          "k": "Includes",
+          "v": "Bed, bath, AC, lighting"
+        },
+        {
+          "k": "Install",
+          "v": "Crane placed, 1 day"
+        },
+        {
+          "k": "Lead time",
+          "v": "Approx. 6 weeks"
+        }
+      ],
+      "hero": "images/05_MY_POD_HIVE_Pod.jpg",
+      "card": "images/05_MY_POD_HIVE_Pod.jpg",
+      "gallery": [
+        "images/05_MY_POD_HIVE_Pod.jpg"
+      ]
+    },
+    {
+      "id": "container-home",
+      "published": true,
+      "name": "Modular Container Home",
+      "cat": "Modular Space Solutions",
+      "t1": "Factory built.",
+      "t2": "Ready in days.",
+      "sub": "Prefab homes, studios and offices",
+      "icon": "box",
+      "short": "Insulated steel-frame modules with glazing and interiors pre-installed.",
+      "lead": "Factory-built homes, offices and studios that arrive finished and are ready to use in days, not months.",
+      "over": "Insulated steel-frame modules with full glazing, interiors, electrics and plumbing pre-installed. Expand later by adding modules side by side.",
+      "from": 299000,
+      "rate": 16500,
+      "inst": 20000,
+      "L": 6,
+      "W": 2.5,
+      "apps": [
+        "res",
+        "com",
+        "hosp"
+      ],
+      "tags": [
+        "Prefab",
+        "Insulated & wired",
+        "Relocatable"
+      ],
+      "feat": [
+        "Expandable module system",
+        "Insulated & weatherproof",
+        "Custom layouts",
+        "Relocatable"
+      ],
+      "specs": [
+        {
+          "k": "Module sizes",
+          "v": "20 ft and 40 ft"
+        },
+        {
+          "k": "Structure",
+          "v": "Galvanised steel frame"
+        },
+        {
+          "k": "Insulation",
+          "v": "PUF sandwich panels"
+        },
+        {
+          "k": "Lead time",
+          "v": "Approx. 4–6 weeks"
+        }
+      ],
+      "hero": "images/03_Modular_Space_Container_Home.jpg",
+      "card": "images/03_Modular_Space_Container_Home.jpg",
+      "gallery": [
+        "images/03_Modular_Space_Container_Home.jpg"
+      ]
+    },
+    {
+      "id": "glass-dome",
+      "published": true,
+      "name": "Glass Dome",
+      "cat": "Concept & Lifestyle Products",
+      "t1": "Concept &",
+      "t2": "lifestyle domes.",
+      "sub": "Geodesic domes, made to order",
+      "icon": "dome",
+      "short": "Geodesic domes for stargazing lounges, gyms, dining and glamping.",
+      "lead": "Geodesic glass domes for stargazing lounges, gyms, dining and glamping experiences.",
+      "over": "Each dome is designed to order, so pricing is shared after a consultation.",
+      "from": 0,
+      "rate": 0,
+      "inst": 0,
+      "L": 6,
+      "W": 6,
+      "apps": [
+        "outdoor",
+        "hosp"
+      ],
+      "tags": [
+        "Geodesic frame",
+        "360° views",
+        "Made to order"
+      ],
+      "feat": [
+        "Geodesic steel frame",
+        "Clear panel skin",
+        "360° sky views",
+        "Custom diameter"
+      ],
+      "specs": [
+        {
+          "k": "Diameter",
+          "v": "4 – 10 m"
+        },
+        {
+          "k": "Frame",
+          "v": "Powder-coated steel"
+        },
+        {
+          "k": "Pricing",
+          "v": "On enquiry"
+        }
+      ],
+      "hero": "images/06_Concept_Glass_Dome.jpg",
+      "card": "images/06_Concept_Glass_Dome.jpg",
+      "gallery": [
+        "images/06_Concept_Glass_Dome.jpg"
+      ]
+    }
+  ]
+}
