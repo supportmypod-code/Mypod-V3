@@ -3,7 +3,7 @@
 # 2) Upload this file to GitHub. Then open  https://your-site/admin/  and choose "Sign in with Token".
 backend:
   name: github
-  repo: YOUR-GITHUB-USERNAME/mypodrange-website
+  repo: supportmypod-code/Mypod-V3/mypodrange-website
   branch: main
 
 # Photos you upload are saved full size (no compression) in this folder of the repository.
