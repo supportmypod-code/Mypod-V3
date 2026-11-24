@@ -1,0 +1,16 @@
+{
+  "name": "MY POD hive · Modular spaces",
+  "short_name": "MY POD hive",
+  "description": "Foldable homes, retractable roofs, motorised pergolas and portable pools.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0e1628",
+  "theme_color": "#0e1628",
+  "icons": [
+    { "src": "images/app-icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "images/app-icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "images/app-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
